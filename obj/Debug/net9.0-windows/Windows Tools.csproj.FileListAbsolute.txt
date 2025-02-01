@@ -1,0 +1,14 @@
+D:\Software\Development\C#\OmniTools\Windows Tools\obj\Debug\net9.0-windows\Windows Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Development\C#\OmniTools\Windows Tools\obj\Debug\net9.0-windows\Windows Tools.AssemblyInfoInputs.cache
+D:\Software\Development\C#\OmniTools\Windows Tools\obj\Debug\net9.0-windows\Windows Tools.AssemblyInfo.cs
+D:\Software\Development\C#\OmniTools\Windows Tools\obj\Debug\net9.0-windows\Windows Tools.csproj.CoreCompileInputs.cache
+D:\Software\Development\C#\OmniTools\Windows Tools\bin\Debug\net9.0-windows\Windows Tools.exe
+D:\Software\Development\C#\OmniTools\Windows Tools\bin\Debug\net9.0-windows\Windows Tools.deps.json
+D:\Software\Development\C#\OmniTools\Windows Tools\bin\Debug\net9.0-windows\Windows Tools.runtimeconfig.json
+D:\Software\Development\C#\OmniTools\Windows Tools\bin\Debug\net9.0-windows\Windows Tools.dll
+D:\Software\Development\C#\OmniTools\Windows Tools\bin\Debug\net9.0-windows\Windows Tools.pdb
+D:\Software\Development\C#\OmniTools\Windows Tools\obj\Debug\net9.0-windows\Windows Tools.dll
+D:\Software\Development\C#\OmniTools\Windows Tools\obj\Debug\net9.0-windows\refint\Windows Tools.dll
+D:\Software\Development\C#\OmniTools\Windows Tools\obj\Debug\net9.0-windows\Windows Tools.pdb
+D:\Software\Development\C#\OmniTools\Windows Tools\obj\Debug\net9.0-windows\Windows Tools.genruntimeconfig.cache
+D:\Software\Development\C#\OmniTools\Windows Tools\obj\Debug\net9.0-windows\ref\Windows Tools.dll

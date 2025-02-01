@@ -1,0 +1,14 @@
+D:\Software\Development\C#\OmniTools\Edition Changer\bin\Debug\net9.0-windows\EditionChanger.exe
+D:\Software\Development\C#\OmniTools\Edition Changer\bin\Debug\net9.0-windows\EditionChanger.deps.json
+D:\Software\Development\C#\OmniTools\Edition Changer\bin\Debug\net9.0-windows\EditionChanger.runtimeconfig.json
+D:\Software\Development\C#\OmniTools\Edition Changer\bin\Debug\net9.0-windows\EditionChanger.dll
+D:\Software\Development\C#\OmniTools\Edition Changer\bin\Debug\net9.0-windows\EditionChanger.pdb
+D:\Software\Development\C#\OmniTools\Edition Changer\obj\Debug\net9.0-windows\EditionChanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Development\C#\OmniTools\Edition Changer\obj\Debug\net9.0-windows\EditionChanger.AssemblyInfoInputs.cache
+D:\Software\Development\C#\OmniTools\Edition Changer\obj\Debug\net9.0-windows\EditionChanger.AssemblyInfo.cs
+D:\Software\Development\C#\OmniTools\Edition Changer\obj\Debug\net9.0-windows\EditionChanger.csproj.CoreCompileInputs.cache
+D:\Software\Development\C#\OmniTools\Edition Changer\obj\Debug\net9.0-windows\EditionChanger.dll
+D:\Software\Development\C#\OmniTools\Edition Changer\obj\Debug\net9.0-windows\refint\EditionChanger.dll
+D:\Software\Development\C#\OmniTools\Edition Changer\obj\Debug\net9.0-windows\EditionChanger.pdb
+D:\Software\Development\C#\OmniTools\Edition Changer\obj\Debug\net9.0-windows\EditionChanger.genruntimeconfig.cache
+D:\Software\Development\C#\OmniTools\Edition Changer\obj\Debug\net9.0-windows\ref\EditionChanger.dll
