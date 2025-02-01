@@ -65,20 +65,15 @@ ping 127.0.0.1 -n 20
 )
 cls
 
-::  Check LF line ending
-
+::  Check LF line ending (Warning only – script continues)
 pushd "%~dp0"
 >nul findstr /v "$" "%~nx0" && (
-echo:
-echo Error - Script either has LF line ending issue or an empty line at the end of the script is missing.
-echo:
-echo:
-echo Help - %mas%troubleshoot
-echo:
-echo:
-ping 127.0.0.1 -n 20 >nul
-popd
-exit /b
+    echo:
+    echo Warning - Script either has LF line ending issue or an empty line at the end of the script is missing.
+    echo:
+    echo Help - %mas%troubleshoot
+    echo:
+    ping 127.0.0.1 -n 5 >nul
 )
 popd
 
