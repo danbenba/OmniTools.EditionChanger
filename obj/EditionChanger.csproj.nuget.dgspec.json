@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software\\Development\\C#\\OmniTools\\Edition Changer\\EditionChanger.csproj": {}
+    "C:\\Users\\Dany\\Desktop\\OmniTools.EditionChanger\\EditionChanger.csproj": {}
   },
   "projects": {
-    "D:\\Software\\Development\\C#\\OmniTools\\Edition Changer\\EditionChanger.csproj": {
+    "C:\\Users\\Dany\\Desktop\\OmniTools.EditionChanger\\EditionChanger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software\\Development\\C#\\OmniTools\\Edition Changer\\EditionChanger.csproj",
+        "projectUniqueName": "C:\\Users\\Dany\\Desktop\\OmniTools.EditionChanger\\EditionChanger.csproj",
         "projectName": "EditionChanger",
-        "projectPath": "D:\\Software\\Development\\C#\\OmniTools\\Edition Changer\\EditionChanger.csproj",
+        "projectPath": "C:\\Users\\Dany\\Desktop\\OmniTools.EditionChanger\\EditionChanger.csproj",
         "packagesPath": "C:\\Users\\Dany\\.nuget\\packages\\",
-        "outputPath": "D:\\Software\\Development\\C#\\OmniTools\\Edition Changer\\obj\\",
+        "outputPath": "C:\\Users\\Dany\\Desktop\\OmniTools.EditionChanger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -51,6 +51,14 @@
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,6 +70,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[9.0.1, 9.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[9.0.1, 9.0.1]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[9.0.1, 9.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -71,6 +93,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
