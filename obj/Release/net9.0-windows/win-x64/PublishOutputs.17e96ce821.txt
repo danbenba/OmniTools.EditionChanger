@@ -1,0 +1,2 @@
+D:\Software\Development\C#\OmniTools\Edition Changer\publish\EditionChanger.pdb
+D:\Software\Development\C#\OmniTools\Edition Changer\publish\EditionChanger.exe

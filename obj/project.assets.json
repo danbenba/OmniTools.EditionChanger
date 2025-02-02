@@ -84,11 +84,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dany\\Desktop\\OmniTools.EditionChanger\\EditionChanger.csproj",
+      "projectUniqueName": "D:\\Software\\Development\\C#\\OmniTools\\Edition Changer\\EditionChanger.csproj",
       "projectName": "EditionChanger",
-      "projectPath": "C:\\Users\\Dany\\Desktop\\OmniTools.EditionChanger\\EditionChanger.csproj",
+      "projectPath": "D:\\Software\\Development\\C#\\OmniTools\\Edition Changer\\EditionChanger.csproj",
       "packagesPath": "C:\\Users\\Dany\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dany\\Desktop\\OmniTools.EditionChanger\\obj\\",
+      "outputPath": "D:\\Software\\Development\\C#\\OmniTools\\Edition Changer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

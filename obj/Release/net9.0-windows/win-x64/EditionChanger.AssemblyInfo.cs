@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EditionChanger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39814c3a6b87920dcde110d8c9c21e8ec3dfc738")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EditionChanger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EditionChanger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -19,7 +19,7 @@ namespace OmniTools
                     new ButtonConfig 
                     { 
                         Title = "Change\nWindows Edition", 
-                        Url = "https://raw.githubusercontent.com/danbenba/OmniTools.EditionChanger/refs/heads/project/webFiles/Change_Windows_Edition.cmd", 
+                        Url = "https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/refs/heads/master/MAS/Separate-Files-Version/Change_Windows_Edition.cmd", 
                         Arguments = "" , 
                         CustomHeight = 60,
                         CustomWidth = 200
@@ -35,7 +35,7 @@ namespace OmniTools
                     new ButtonConfig 
                     { 
                         Title = "Change\nOffice Edition", 
-                        Url = "https://raw.githubusercontent.com/danbenba/OmniTools.EditionChanger/refs/heads/project/webFiles/Change_Office_Edition.cmd", 
+                        Url = "https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/refs/heads/master/MAS/Separate-Files-Version/Change_Office_Edition.cmd", 
                         Arguments = "", 
                         CustomHeight = 60,
                         CustomWidth = 200
